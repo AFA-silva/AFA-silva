@@ -25,7 +25,6 @@ Atualmente, estou a expandir meus conhecimentos em desenvolvimento de software e
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
 
 ## 📊 Estatísticas do GitHub  
 
@@ -36,8 +35,6 @@ Atualmente, estou a expandir meus conhecimentos em desenvolvimento de software e
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afasilva&layout=compact&langs_count=8&theme=radical" alt="andré silva languages" />
 </p>
-
----
 
 ## 📫 Conecte-se Comigo  
 
@@ -50,6 +47,5 @@ Atualmente, estou a expandir meus conhecimentos em desenvolvimento de software e
   </a>
 </p>
 
----
 
 ✨ Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver ideias para colaboração!
