@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil no GitHub!
 Sou desenvolvedor **back-end** apaixonado por tecnologia e desafios.  
 Atualmente, estou a expandir meus conhecimentos em desenvolvimento de software e adoro trabalhar em projetos interessantes. 🚀
 
----
 
 ## 📌 About me
 - 🎓 Graduated in TGPSI (Tecnico de Gestão e Programação de Sistemas Informáticos)
