@@ -29,20 +29,16 @@ Atualmente, estou a expandir meus conhecimentos em desenvolvimento de software e
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afasilva&show_icons=true&theme=radical" alt="andré silva stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afasilva&layout=compact&langs_count=8&theme=radical" alt="andré silva languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AFA-Silva&show_icons=true&theme=radical" alt="andré silva stats" />
 </p>
 
 ## 📫 Conecte-se Comigo  
 
 <p align="left">
-  <a href="https://linkedin.com/in/andré silva" target="blank">
+  <a href="https://www.linkedin.com/in/andré-silva-91b40933a" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:AFAsilva.pt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
