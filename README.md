@@ -2,16 +2,14 @@
 
 Bem-vindo ao meu perfil no GitHub!  
 Sou desenvolvedor **back-end** apaixonado por tecnologia e desafios.  
-Atualmente, estou expandindo meus conhecimentos em desenvolvimento de software e adoro trabalhar em projetos interessantes. 🚀
+Atualmente, estou a expandir meus conhecimentos em desenvolvimento de software e adoro trabalhar em projetos interessantes. 🚀
 
 ---
 
-## 📌 Sobre Mim
-- 🔭 Atualmente focado em projetos back-end e boas práticas de desenvolvimento.  
-- 🌱 Estudando e aprofundando meus conhecimentos em **C#, JavaScript, React e TypeScript**.  
-- 👯 Aberto a colaborar em projetos e aprender em equipe.  
-- 🎮 Curiosidade: gosto de explorar novas tecnologias e criar soluções criativas.  
-
+## 📌 About me
+- 🎓 Graduated in TGPSI (Tecnico de Gestão e Programação de Sistemas Informáticos)
+- 💻 Back-end developer with experience in some technologies
+- 🌱 Currently expanding my knowledge in software development
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
