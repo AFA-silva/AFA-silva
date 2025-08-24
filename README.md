@@ -10,8 +10,6 @@ I am currently expanding my knowledge in software development and I love working
 - 💻 Back-end developer with experience in some technologies  
 - 🌱 Currently expanding my knowledge in software development  
 
----
-
 ## 🛠️ TECHNOLOGIES & TOOLS  
 
 <p align="left"> 
@@ -26,15 +24,11 @@ I am currently expanding my knowledge in software development and I love working
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 </p>  
 
----
-
 ## 📊 GITHUB STATISTICS  
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=AFA-Silva&show_icons=true&theme=radical" alt="andré silva stats" /> 
 </p>  
-
----
 
 ## 📫 CONNECT WITH ME  
 
@@ -46,7 +40,5 @@ I am currently expanding my knowledge in software development and I love working
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> 
 </p>  
-
----
 
 ✨ Feel free to explore my repositories and get in touch if you have ideas for collaboration!  
