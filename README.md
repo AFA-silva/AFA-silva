@@ -20,5 +20,3 @@ I am currently expanding my knowledge in software development and I love working
 <p align="left"> <a href="https://www.linkedin.com/in/andré-silva-91b40933a" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:AFAsilva.pt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ✨ Feel free to explore my repositories and get in touch if you have ideas for collaboration!
-
-![Snake animation](https://raw.githubusercontent.com/AFA-Silva/AFA-Silva/output/github-contribution-grid-snake.svg)
