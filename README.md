@@ -6,7 +6,7 @@ I am currently expanding my knowledge in software development and I love working
 
 ## 📌 ABOUT ME  
 
-- 🎓 Graduated in TGPSI (Technician in Management and Programming of Computer Systems)  
+- 🎓 Graduated in TGPSI (Tecnico de Gestão e Programação de Sistemas Informáticos)  
 - 💻 Back-end developer with experience in some technologies  
 - 🌱 Currently expanding my knowledge in software development  
 
